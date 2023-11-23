@@ -1,0 +1,56 @@
+a {
+  margin: 0 !important;
+}
+.form-section {
+  background-color: #ebf0f4;
+}
+
+.header .title {
+  color: #000;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.button .subtitle {
+  color: #000;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+.form .form-label {
+  color: #000;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.form .input {
+  position: relative;
+}
+span{
+  color: red;
+  font-size: 18px;
+}
+.form .icon {
+  position: absolute;
+  top: 10px;
+  left: 15px;
+  color:  #3FAEFD;
+}
+.form .icon-2{
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color:  #3FAEFD;
+}
+
+.form .button {
+  width: 100%;
+  border-radius: 10px;
+  background: #3a4b86;
+  color: #fff;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
